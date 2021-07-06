@@ -1,0 +1,11 @@
+.primary {
+  background: green;
+}
+
+.button {
+  padding: 1em;
+}
+
+.primaryButton {
+  composes: primary button;
+}
